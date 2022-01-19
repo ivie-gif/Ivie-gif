@@ -1,5 +1,5 @@
 ## 👋 Hi there, I am Ivie Maryann Emwiongbon!
-### ✨ A Software Developer, Technical Support Specialist, and technical writer passionate about creating things that works on computer :)
+### ✨ A software developer, technical support specialist, and technical writer passionate about creating things that works on computer :)
 
 ---
 
