@@ -4,7 +4,7 @@
 ---
 
 - 😄 My Pronouns: Her/She   
-- 💬 Ask me about: ReactJs, NextJS, Azure Boards, Microsoft Planner & Project Board, Trello, Jira
+- 💬 Ask me about: ReactJs, NextJS, Material UI, Trello, Jira, Azure
 - 🌱 I’m currently exploring new things in technology
 - 🌐 [Portfolio Website](Available Soon!)
 - ⚡ Fun fact: I enjoy Watching Football
